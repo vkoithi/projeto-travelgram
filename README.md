@@ -1,13 +1,11 @@
-# Travelgram
-
-📌 Projeto pronto para deploy no GitHub Pages
-
-**Visualização online:** [Adicione aqui o link do GitHub Pages](https://seu-usuario.github.io/seu-repositorio)
+<h1 align="center"> Travelgram </h1>
+    <p align="center">
+    <img alt="Projeto Travelgram" src="assets/images/projeto-completo.png" width="100%">
 
 ## Sobre
 Projeto de página estática de perfil de viagens, feito com HTML e CSS. O objetivo é mostrar um layout simples e visual para um perfil de viajante com navegação, foto, cards de informação e galeria de imagens.
 
-## Tecnologias
+## 🚀 Tecnologias
 - HTML5
 - CSS3
 
@@ -32,5 +30,5 @@ Projeto de página estática de perfil de viagens, feito com HTML e CSS. O objet
 - Informações de localização, países e fotos
 - Galeria de imagens
 
-## Projeto Finalizado
-![Tela final do projeto](assets/images/projeto-completo.png)
+## 💻 Projeto
+- [Acesse o projeto finalizado, online](https://vkoithi.github.io/projeto-travelgram/)

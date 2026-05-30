@@ -31,4 +31,4 @@ Projeto de página estática de perfil de viagens, feito com HTML e CSS. O objet
 - Galeria de imagens
 
 ## 💻 Projeto
-- [Acesse o projeto finalizado, online](https://vkoithi.github.io/projeto-travelgram/)
+- [Acesse o projeto finalizado, online.](https://vkoithi.github.io/projeto-travelgram/)

@@ -23,4 +23,8 @@ nav ul li:last-child img {
     .desktop-only {
         display: none;
     }
+
+    & nav ul {
+        gap: 1rem;
+    }
 }

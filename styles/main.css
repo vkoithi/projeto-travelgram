@@ -10,3 +10,15 @@ main img {
     height: 286px;
     object-fit: cover;
 }
+
+@media (width <= 30rem ) {
+    main {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    & > img {
+        width: 100%;
+    }
+}

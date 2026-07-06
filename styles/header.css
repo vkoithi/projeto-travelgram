@@ -49,7 +49,19 @@ header .container {
     gap: 8px;
 }
 
-@media (width <= 30rem) {
+@media (width <= 45rem) {
+    header .container {
+        flex-direction: column;
+    }
+
+    #info {
+        padding-top: 2rem;
+        flex-direction: row;
+    }
+}
+
+
+@media (width <= 33rem) {
 
     header .container {
         display: flex;
@@ -71,6 +83,8 @@ header .container {
     }
     
     #info {
+        padding-top: 1rem;
+        flex-direction: column;
         gap: .5rem;
     }
 }

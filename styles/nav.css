@@ -19,12 +19,8 @@ nav ul li:last-child img {
     height: 40px;
 }
 
-@media (width <= 30rem) {
+@media (width <= 33rem) {
     .desktop-only {
         display: none;
-    }
-
-    & nav ul {
-        gap: 1rem;
     }
 }

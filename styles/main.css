@@ -1,24 +1,27 @@
 main {
     display: flex;
+    justify-content: center;
     flex-wrap: wrap;
     gap: 24px;
     padding-block: 24px;
 }
 
 main img {
-    width: 286px;
-    height: 286px;
+    max-width: 286px;
+    max-height: 286px;
     object-fit: cover;
 }
 
-@media (width <= 30rem ) {
+@media (width <= 45rem) {
     main {
-        display: flex;
         flex-direction: column;
         align-items: center;
-    }
 
-    & > img {
-        width: 100%;
+        & img {
+            width: 100%;
+            align-items: center;
+            max-width: 286px;
+            aspect-ratio: 1/1;
+        }
     }
 }
